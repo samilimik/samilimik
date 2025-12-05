@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hey there 👋
+Greetings! Welcome to sa_mi1e's public github.
+- 📫 How to reach me: DM me with discord 'sa_mi1e'
+- I'm currently living in Anyang (Seoul).
+- I'm just a normal middle school student on South Korea.
 <!--
 **samilimik/samilimik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
