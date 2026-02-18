@@ -1,2 +1,3 @@
-## Hey there 👋
-Greetings! Welcome to sa_mi1e's public github.
+## 반갑습니다
+삼일입니다
+멘헤라임
